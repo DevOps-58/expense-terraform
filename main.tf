@@ -1,3 +1,3 @@
 module "app" {
-  source = "git clone https://github.com/DevOps-58/tf-module-terraform.git"
+  source = "git::https://github.com/DevOps-58/tf-module-terraform.git"
 }
