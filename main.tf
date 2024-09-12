@@ -20,7 +20,7 @@
    env           = var.env
    port_no       = var.components["backend"]["port_no"]
    pwd           = var.pwd
-#   #vault_token = var.vault_token
+   #vault_token = var.vault_token
  }
 
 module "mysql" {
