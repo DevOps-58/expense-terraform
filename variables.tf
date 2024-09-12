@@ -1,6 +1,6 @@
 variable "components" {}
 variable "env" {}
 variable "pwd" {
-    default = "DevOps321"
+    default = "ExpenseApp@1"
 }
 #variable "vault_token" {}
