@@ -1,4 +1,4 @@
 variable "components" {}
 variable "env" {}
 #variable "pwd" {}
-#variable "vault_token" {}
+variable "vault_token" {}
