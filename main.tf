@@ -34,4 +34,4 @@ module "mysql" {
 
 }
 
- variable "vault_token" {}
+ 
