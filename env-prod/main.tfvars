@@ -20,4 +20,5 @@ components = {
   }
 }
 
-prometheus_node = ["172.31.82.166/32"]
+prometheus_node = ["172.31.31.46/32"]
+
